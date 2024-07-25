@@ -18,7 +18,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'To-Do List App',
       home: Home(),
-      //ssdsadsd
     );
   }
 }
