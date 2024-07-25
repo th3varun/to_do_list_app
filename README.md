@@ -30,3 +30,40 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repository
    ```sh
    git clone https://github.com/th3varun/to_do_list_app.git
+2. Navigate to the project directory
+   ```sh
+   cd to_do_list_app
+3. Install dependencies
+   ```sh
+   flutter pub get
+4. Run the app
+   ```sh
+   flutter run
+
+## Usage
+
+- **Add a new task**: ype your task in the input field at the bottom and press the '+' button.
+- **Delete a task**: Press the delete icon next to the task you want to remove.
+- **Search for a task**: Type in the search bar to filter tasks by their name.
+- **Mark a task as done/undone**: Tap on the task to toggle its completion status.
+- **Profile Image**: ap on the profile image to see the message "Integration with Google soon".
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+- Fork the Project.
+- Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+- Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+- Push to the Branch (`git push origin feature/AmazingFeature`)
+- Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+
+Varun Gohe - thevarungohe@gmail.com
+Project Link: https://github.com/th3varun/to_do_list_app
+
