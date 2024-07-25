@@ -13,8 +13,10 @@ A simple and user-friendly To-Do List application built with Flutter. This app a
 
 ## Screenshots
 
-![Home Screen](screenshots/homescreen.png)
-![Coming Soon](screenshots/comingsoon.png)
+<p align="center">
+  <img src="screenshots/homescreen.png" alt="Home Screen" width="300" style="margin-right: 20px;"/>
+  <img src="screenshots/comingsoon.png" alt="Coming Soon" width="300"/>
+</p>
 
 ## Getting Started
 
